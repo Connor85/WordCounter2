@@ -6,17 +6,20 @@
   <title>Word Counter</title>
 </head>
 <body>
-<div class="container">
-  <h1>Word Counter</h1>
-  <p>Please enter a word and phrase.</p>
-  <p>Press submit to see how many times the word occurs in the phrase.</p>
-  <form action="/result" method="post">
-    <label for="word">Enter a Word</label>
-    <input id="word" name="word" type="text">
-    <label for="phrase">Enter a phrase</label>
-    <input id="phrase" name="phrase" type="text">
-    <button type="submit">Submit</button>
-  </form>
+  <div class="container">
+    <h1 class="jumbotron">Word Counter</h1>
+    <p>Please enter a word and phrase.</p>
+    <p>Press submit to see how many times the word occurs in the phrase.</p>
+    <div class="form-group">
+      <form action="/result" method="post">
+        <label for="word">Enter a Word</label>
+        <input class="form-control" id="word" name="word" type="text">
+        <label for="phrase">Enter a phrase</label>
+        <input class="form-control" id="phrase" name="phrase" type="text">
+      </br>
+      <button class="btn btn-primary" type="submit">Submit</button>
+    </form>
+  </div>
 </div>
 </body>
 </html>
