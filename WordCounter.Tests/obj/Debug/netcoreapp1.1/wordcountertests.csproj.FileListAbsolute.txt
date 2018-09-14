@@ -1,0 +1,14 @@
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/bin/Debug/netcoreapp1.1/wordcountertests.deps.json
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/bin/Debug/netcoreapp1.1/wordcountertests.runtimeconfig.json
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/bin/Debug/netcoreapp1.1/wordcountertests.runtimeconfig.dev.json
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/obj/Debug/netcoreapp1.1/wordcountertests.csproj.CoreCompileInputs.cache
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/obj/Debug/netcoreapp1.1/wordcountertests.AssemblyInfo.cs
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/bin/Debug/netcoreapp1.1/wordcountertests.dll
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/bin/Debug/netcoreapp1.1/wordcountertests.pdb
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/bin/Debug/netcoreapp1.1/wordcouter.dll
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/bin/Debug/netcoreapp1.1/wordcouter.pdb
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/obj/Debug/netcoreapp1.1/wordcountertests.dll
+/Users/ConnorMcCarthy/Desktop/WordCounter-master/WordCounter.Tests/obj/Debug/netcoreapp1.1/wordcountertests.pdb
